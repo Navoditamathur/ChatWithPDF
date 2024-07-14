@@ -1,0 +1,14 @@
+streamlit
+pypdf
+nbformat
+langchain
+openai
+langchain-community
+langchain_experimental
+chromadb
+tiktoken
+python-dotenv
+unstructured
+shutil
+os
+toml
